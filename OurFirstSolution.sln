@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36301.6 d17.14
+VisualStudioVersion = 17.14.36301.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OurFirstProject", "OurFirstProject\OurFirstProject.csproj", "{D4EDC6F0-D67C-4275-916D-0F394ACDF632}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OurSecondProject", "OurSecondProject\OurSecondProject.csproj", "{511CD11D-ACF4-49B5-8FBC-A2A00B3322BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectOrientedProgramming", "ObjectOrientedProgramming\ObjectOrientedProgramming.csproj", "{2CD794CA-1383-4F0E-B298-0B226677B7B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{511CD11D-ACF4-49B5-8FBC-A2A00B3322BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{511CD11D-ACF4-49B5-8FBC-A2A00B3322BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{511CD11D-ACF4-49B5-8FBC-A2A00B3322BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CD794CA-1383-4F0E-B298-0B226677B7B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD794CA-1383-4F0E-B298-0B226677B7B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD794CA-1383-4F0E-B298-0B226677B7B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD794CA-1383-4F0E-B298-0B226677B7B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
