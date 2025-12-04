@@ -1,0 +1,5 @@
+﻿Name;Amount;Category;Date
+Sushi;95;Food;2025-12-03
+Tickets;120;Leisure;2025-12-04
+Sandwich;20;Food;2025-12-01
+Laptop;5000;School;2025-11-30
